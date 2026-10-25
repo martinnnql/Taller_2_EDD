@@ -41,7 +41,7 @@ string Paciente::resumen() const {
 
 string Paciente::detalleClinico() const {
     ostringstream salida;
-    salida << fixed << setprecision(1) << "T: " << this->temperatura << "°"
+    salida << fixed << setprecision(1) << "T: " << this->temperatura << " C"
            << " | P: " << this->presionArterial
            << " | D: " << this->dolor
            << " | TD: " << this->tipoDolor
