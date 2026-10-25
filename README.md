@@ -22,7 +22,7 @@ El proyecto sigue una arquitectura separada para mantener las responsabilidades 
 - `Pacientes.txt`: Archivo de entrada con la información de los pacientes.
 
 ## Instrucciones de Compilación y Ejecución
-Para evaluar este proyecto, asegúrese de tener instalado el compilador MinGW-w64 (g++) y de abrir su terminal en la carpeta raíz del proyecto (donde se ubica este archivo README y el archivo pacientes.txt).
+Para evaluar este proyecto, asegúrese de tener instalado el compilador MinGW-w64 (g++) y de abrir su terminal en la carpeta raíz del proyecto (donde se ubica el archivo pacientes.txt).
 1. Compilación
 Ejecute el siguiente comando para ensamblar todos los archivos en un único ejecutable:
 
